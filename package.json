@@ -34,7 +34,7 @@
     "@nuxtjs/pwa": "^3.0.1",
     "@nuxtjs/sentry": "^4.3.4",
     "dotenv": "^8.2.0",
-    "nuxt": "^2.14.3",
+    "nuxt": "^3.4.3",
     "nuxt-typed-vuex": "^0.1.20",
     "vee-validate": "^3.3.9"
   },
